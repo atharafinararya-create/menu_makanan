@@ -22,5 +22,6 @@ int main() {
             cout<<total<<endl;
             
         }
+    system("pause");
     return 0;
 }
